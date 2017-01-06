@@ -5,5 +5,5 @@ content.appendChild(h1);
 
 var h2 = document.createElement("h2");
 h2.className = "subheading";
-h2.innerText = "Titles for 'Мушля' request"
+h2.innerText = "Titles for 'Мушля' request (mushlya.com)"
 content.appendChild(h2);
